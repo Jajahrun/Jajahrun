@@ -15,7 +15,7 @@ Hi 👋 I'm a passionate Full-Stack Developer who loves building modern, scalabl
 - **Serasi24 Platform**
 - **MyFinace App**
 - **Bank Sampah Management System**
-- **RahmahTravel System**
+- **RahmahTravel**
 
 👯 Open to collaborating on:
 - Full-stack web applications
