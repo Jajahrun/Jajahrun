@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rayan</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<!--
-**Jajahrun/Jajahrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently building web apps
+- 📱 Learning Mobile Development
+- 🎨 Love UI/UX Design
+- ⚡ Always improving
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,kotlin,mysql,git" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 🌐 Portfolio: https://yourwebsite.com
+- 📧 Email: your@email.com
