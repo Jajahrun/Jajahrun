@@ -1,6 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on modern web & mobile applications (Serasi24, MyFinace, Bank Sampah system, rahmahtravel)<br><br>👯 I’m looking to collaborate on full-stack web projects and mobile app development<br><br>🤝 I’m looking for help with advanced system architecture & scalable backend design<br><br>🌱 I’m currently learning system optimization, clean architecture, and advanced Laravel + React patterns<br><br>💬 Ask me about Web Development, UI/UX Design, Kotlin, Laravel, Database Design, and Project Structure<br><br>⚡ Fun fact: I love building clean, modern interfaces and turning complex logic into simple user experiences.
+<h1 align="center">Hi 👋, I'm Zahran</h1>
+<h3 align="center">Full Stack Developer • System Builder • UI Enthusiast</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
+</p>
+
+---
+
+## 💫 About Me
+
+Hi 👋 I'm a passionate Full-Stack Developer who loves building modern, scalable, and user-friendly digital products.
+
+🔭 Currently building real-world web & mobile applications:
+- **Serasi24 Platform**
+- **MyFinace App**
+- **Bank Sampah Management System**
+- **RahmahTravel System**
+
+👯 Open to collaborating on:
+- Full-stack web applications
+- Mobile app development
+- Clean and scalable system architecture
+
+🤝 Currently exploring:
+- Advanced backend architecture
+- Scalable system design
+- Performance optimization
+
+🌱 Learning deeper about:
+- Clean Architecture principles
+- Advanced Laravel & React patterns
+- Efficient database structuring
+
+💬 Ask me about:
+Web Development, UI/UX Design, Kotlin, Laravel, Database Design, and Project Structuring.
+
+⚡ Fun Fact:
+I enjoy transforming complex business logic into clean, modern, and intuitive user interfaces.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zahran) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amazejahran) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Alzahran) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rannnaja) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Alzahran alamsyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alzahranjakarta@gmail.com) 
